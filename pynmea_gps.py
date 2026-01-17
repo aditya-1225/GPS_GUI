@@ -24,7 +24,7 @@ for port in ports:
     print(port)
 
 # Set the desired port (modify as needed)
-ser.port = "COM3"  # Change to the appropriate port
+ser.port = "COM5"  # Change to the appropriate port
 ser.open()  # Open serial port
 
 # Check if the port is open
